@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "センチメンタルシスター",
+  "base_artist": "yonige",
+  "createdAt": "2026-02-07T21:10:35.374728Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "センチメンタルシスター (Xansei Remix)",
+      "artist": "yonige",
+      "has_synced": false,
+      "path": "select/01_センチメンタルシスター_(Xansei_Remix)_yonige.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "センチメンタルシスター",
+      "artist": "yonige",
+      "has_synced": false,
+      "path": "select/pl_01_センチメンタルシスター_yonige.txt"
+    }
+  ]
+}
